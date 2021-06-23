@@ -5,6 +5,7 @@ Sources:
 
 Personalize: https://github.com/aws-samples/amazon-personalize-samples.git
 Sagemaker: https://github.com/awslabs/amazon-sagemaker-workshop.git
+Anti fraud with Sagemaker: https://github.com/aws-samples/amazon-fraud-detector-sagemaker-benchmark
 
 
 
